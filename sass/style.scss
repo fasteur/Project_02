@@ -202,7 +202,7 @@ header{
          content: " ";
          display: block;
          height: 140px;
-         background: url(../images/shadow.png) repeat-x center top;
+        //  background: url(../images/shadow.png) repeat-x center top;
          width: 100%;
          }
     .divSpace{
@@ -227,7 +227,7 @@ header{
 
 main{
     padding: 2em 0;
-    background-color: white;
+    background-color: rgb(19, 25, 43);
     text-align: center;
 
     section{min-width: $width-min;
@@ -352,7 +352,7 @@ main{
 .imgIphone{
     color: white;
     padding: 1em 0;
-    background: url(../images/video.jpg) no-repeat;
+    // background: url(../images/video.jpg) no-repeat;
     background-size: cover;
     .contentphone{
         height: 300px;
@@ -374,7 +374,7 @@ main{
     
 }
 
-footer{background-color: rgba(8, 20, 26, 0.911)
+footer{background-color: rgba(8, 20, 26, 0.911);
     margin: -20px auto;
     min-width: $width-min;
     text-align: center;
@@ -431,7 +431,7 @@ footer{background-color: rgba(8, 20, 26, 0.911)
     .divCopyright{
         padding: 1em 0.5em;
         text-align: left;
-        background-color: white;
+        background-color: rgb(27, 30, 70);
         height: 5em;
         position: absolute;
         left: 0;
