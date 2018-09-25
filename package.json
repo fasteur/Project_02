@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/fasteur/Project_02/issues"
   },
-  "homepage": "https://github.com/fasteur/Project_02#readme"
+  "homepage": "https://github.com/fasteur/Project_02#readme",
+  "devDependencies": {
+    "@angular-devkit/build-angular": "^0.8.3"
+  }
 }
